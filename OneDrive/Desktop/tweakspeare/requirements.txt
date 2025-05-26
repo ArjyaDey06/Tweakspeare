@@ -1,0 +1,6 @@
+openai-whisper
+torch
+language-tool-python
+streamlit
+soundfile
+numpy
