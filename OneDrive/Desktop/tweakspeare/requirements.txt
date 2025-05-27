@@ -1,6 +1,3 @@
-openai-whisper
-torch
-language-tool-python
-streamlit
-soundfile
-numpy
+streamlit==1.39.0
+openai-whisper==20240930
+pyaudio==0.2.14

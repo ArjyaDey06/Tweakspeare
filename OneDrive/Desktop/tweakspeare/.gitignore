@@ -1,0 +1,29 @@
+# Ignore Python virtual environments
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore audio files
+*.wav
+
+# Ignore JSON files (API keys, credentials)
+*.json
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files (VS Code)
+.vscode/
+
+# Other files you might want to ignore
+*.egg-info/
+dist/
+build/
+
